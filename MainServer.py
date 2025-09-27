@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import os, sys, json, time, random, sqlite3, pymysql, traceback, zlib, asyncio, urllib.request, threading
 start = time.time()
 # Others
@@ -3731,3 +3732,7 @@ if __name__ == "__main__":
 
     # Connection Server
     _Server = Server()
+=======
+# Arquivo principal do servidor
+# Importação será feita através do repositório local
+>>>>>>> 0189c52a0faa77b0694c12c97ee56d9ef799d779

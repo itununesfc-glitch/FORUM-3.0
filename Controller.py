@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import time
 import os
 
@@ -25,3 +26,7 @@ def main():
 
 if __name__=="__main__":
     main()
+=======
+# Controlador do servidor
+# Importação será feita através do repositório local
+>>>>>>> 0189c52a0faa77b0694c12c97ee56d9ef799d779

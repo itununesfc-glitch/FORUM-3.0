@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Arquivos de cache Python
 __pycache__/
 *.py[cod]
@@ -39,3 +40,15 @@ ENV/
 # Arquivos específicos do projeto
 include/ChatLog/
 include/CommandLog/
+=======
+# Arquivos a serem ignorados
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+env/
+.idea/
+.vscode/
+>>>>>>> 0189c52a0faa77b0694c12c97ee56d9ef799d779
